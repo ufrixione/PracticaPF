@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj": {}
+    "C:\\Users\\LENOVO LOQ 15\\Desktop\\Tarea\\PracticaPF\\MiProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj": {
+    "C:\\Users\\LENOVO LOQ 15\\Desktop\\Tarea\\PracticaPF\\MiProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO LOQ 15\\Desktop\\Tarea\\PracticaPF\\MiProyecto.csproj",
         "projectName": "MiProyecto",
-        "projectPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
+        "projectPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\Tarea\\PracticaPF\\MiProyecto.csproj",
         "packagesPath": "C:\\Users\\LENOVO LOQ 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\Tarea\\PracticaPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO LOQ 15\\AppData\\Roaming\\NuGet\\NuGet.Config"
