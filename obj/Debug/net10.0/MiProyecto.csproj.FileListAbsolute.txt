@@ -1,0 +1,15 @@
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\bin\Debug\net10.0\MiProyecto.exe
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\bin\Debug\net10.0\MiProyecto.deps.json
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\bin\Debug\net10.0\MiProyecto.dll
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\bin\Debug\net10.0\MiProyecto.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.sourcelink.json
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.dll
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.pdb
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\Users\LENOVO LOQ 15\Desktop\Tarea\PracticaPF\obj\Debug\net10.0\ref\MiProyecto.dll

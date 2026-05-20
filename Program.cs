@@ -9,3 +9,7 @@ int [] edades = new int[25];
 //3. Mayores de edad  
 
 //4. Menores de edad
+for (int i = 0; i < 25; i++)
+{
+    Console.WriteLine($"Edad # {i + 1}: {edades[i]}");
+}
