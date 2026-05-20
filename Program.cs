@@ -14,7 +14,7 @@ for (int i = 0; i < 25; i++)
 try 
 {
 Console.Write("Ingrese la edad " + (i + 1) + ": ");
-string entrada = Console.ReadLine();
+string entrada = Console.ReadLine()!;
 edades[i] = int.Parse(entrada);
 }
 catch (Exception)
