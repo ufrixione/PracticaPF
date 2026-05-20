@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj": {}
+    "C:\\Users\\Home\\Desktop\\exam\\PracticaPF\\MiProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj": {
+    "C:\\Users\\Home\\Desktop\\exam\\PracticaPF\\MiProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Home\\Desktop\\exam\\PracticaPF\\MiProyecto.csproj",
         "projectName": "MiProyecto",
-        "projectPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\MiProyecto.csproj",
-        "packagesPath": "C:\\Users\\LENOVO LOQ 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO LOQ 15\\Desktop\\PracticaPF\\MiProyecto\\obj\\",
+        "projectPath": "C:\\Users\\Home\\Desktop\\exam\\PracticaPF\\MiProyecto.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Home\\Desktop\\exam\\PracticaPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LENOVO LOQ 15\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
